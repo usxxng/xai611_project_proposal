@@ -6,6 +6,7 @@ Advanced big data analysis (23-1)
 
 
 ## Dataset
+```
 root
 │───data
 │   │───ADNI1
@@ -30,7 +31,7 @@ root
 │   │   │───CN
 │   │   │   └───slice_adni1_id_221789.png
 └───    │   ...
-
+```
 The full dataset is available via the link below.
 
 [\[Full dataset download\]](https://www.google.com)
