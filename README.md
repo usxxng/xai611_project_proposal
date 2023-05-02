@@ -67,7 +67,7 @@ python train.py --gpu 0 --model_name custom_name --batch_size 16 --source adni1 
 
 ## Evaluting
 
-You can use the model used for training earlier, or you can evaluate it by specifying the model in --model_name
+You can use the model used for training earlier, or you can evaluate it by specifying the model in --load_model
 
 ```
 python test.py --gpu 0 --load_model trained_model --batch_size 1
