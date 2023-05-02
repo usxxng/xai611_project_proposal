@@ -2,7 +2,7 @@
 Advanced big data analysis (23-1)
 
 ## Baseline model
-![architecture](./framework.png)
+![architecture](./dann.jpg)
 
 
 ## Dataset
