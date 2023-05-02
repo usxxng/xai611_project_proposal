@@ -34,7 +34,7 @@ root
 ```
 The full dataset is available via the link below.
 
-[\[Full dataset download\]](https://www.google.com)
+[\[Full dataset download\]](https://drive.google.com/file/d/1DXnP2j9aIikJJhdX-a1WYxJw-IzZ-BDP/view?usp=sharing)
 
 ⚠️ A validation set is not provided separately, and you can define it directly in the train dataset.
 
