@@ -6,7 +6,35 @@ Advanced big data analysis (23-1)
 
 
 ## Dataset
-You can available full dataset
+root
+│───data
+│   │───ADNI1
+│   │   │───AD
+│   │   │   └───slice_adni1_id_7161.png
+│   │   │   ...
+│   │   │───CN
+│   │   │   └───slice_adni1_id_7024.png
+│   │   │   ...
+│   │
+│   └───ADNI2
+│   │   │───AD
+│   │   │   └───slice_adni1_id_218391.png
+│   │   │   ...
+│   │   │───CN
+│   │   │   └───slice_adni1_id_224603.png
+│   │   │   ...
+│   └───ADNI2_test
+│   │   │───AD
+│   │   │   └───slice_adni1_id_253758.png
+│   │   │   ...
+│   │   │───CN
+│   │   │   └───slice_adni1_id_221789.png
+└───    │   ...
+
+The full dataset is available via the link below.
+
+[\[Full dataset download\]](https://www.google.com)
+
 * A validation set is not provided separately, and you can define it directly in the train dataset.
 
 ## Setup
