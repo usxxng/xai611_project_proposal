@@ -36,7 +36,7 @@ The full dataset is available via the link below.
 
 [\[Full dataset download\]](https://www.google.com)
 
-* A validation set is not provided separately, and you can define it directly in the train dataset.
+⚠️ A validation set is not provided separately, and you can define it directly in the train dataset.
 
 ## Setup
 
