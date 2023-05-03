@@ -11,30 +11,37 @@ root
 │───data
 │   │───ADNI1
 │   │   │───AD
-│   │   │   └───slice_adni1_id_7161.png
+│   │   │   └───slice_adni1_ad_7161.png
 │   │   │   ...
 │   │   │───CN
-│   │   │   └───slice_adni1_id_7024.png
+│   │   │   └───slice_adni1_cn_7024.png
 │   │   │   ...
 │   │
 │   └───ADNI2
 │   │   │───AD
-│   │   │   └───slice_adni1_id_218391.png
+│   │   │   └───slice_adni2_ad_218391.png
 │   │   │   ...
 │   │   │───CN
-│   │   │   └───slice_adni1_id_224603.png
+│   │   │   └───slice_adni2_cn_224603.png
 │   │   │   ...
 │   └───ADNI2_test
 │   │   │───AD
-│   │   │   └───slice_adni1_id_253758.png
+│   │   │   └───slice_adni2_ad_253758.png
 │   │   │   ...
 │   │   │───CN
-│   │   │   └───slice_adni1_id_221789.png
+│   │   │   └───slice_adni2_cn_221789.png
 └───    │   ...
 ```
+File names follow these rules:
+- ex) slice_adni1_ad_7161.png
+- slice : Axial slice(193,229) of the sMRI data(193,229,193)
+- adni1 : Domain name
+- ad : Alzheimer's Disease (ad), Cognitive Normal (cn)
+- 7161 : Subject id
+
 The full dataset is available via the link below.
 
-[\[Full dataset download\]](https://drive.google.com/file/d/1DXnP2j9aIikJJhdX-a1WYxJw-IzZ-BDP/view?usp=sharing)
+[\[Full dataset download\]](https://drive.google.com/file/d/1-Zg6ICOT4M9LG2YeUGVoShA8Low8IXma/view?usp=share_link)
 
 ⚠️ A validation set is not provided separately, and you can define it directly in the train dataset.
 
