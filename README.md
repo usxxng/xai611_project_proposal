@@ -32,7 +32,9 @@ root
 │   │   │   └───slice_adni2_cn_221789.png
 └───    │   ...
 ```
-File names follow these rules: ex) slice_adni1_ad_7161.png
+File names follow these rules: 
+
+ex) slice_adni1_ad_7161.png
 - slice : Axial slice(193,229) of the sMRI data(193,229,193)
 - adni1 : Domain name
 - ad : Alzheimer's Disease (ad), Cognitive Normal (cn)
