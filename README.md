@@ -40,9 +40,9 @@ ex) slice_adni1_ad_7161.png
 - ad : Alzheimer's Disease (ad), Cognitive Normal (cn)
 - 7161 : Subject id
 
-The full dataset is available via the link below.
+<!-- The full dataset is available via the link below.
 
-[\[Full dataset download\]](https://drive.google.com/file/d/1-Zg6ICOT4M9LG2YeUGVoShA8Low8IXma/view?usp=share_link)
+[\[Full dataset download\]](https://drive.google.com/file/d/1-Zg6ICOT4M9LG2YeUGVoShA8Low8IXma/view?usp=share_link) -->
 
 ⚠️ A validation set is not provided separately, and you can define it directly in the train dataset.
 
